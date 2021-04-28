@@ -26,6 +26,8 @@
 
 [![betoxxD's GitHub stats](https://github-readme-stats.vercel.app/api?username=betoxxD)](https://github.com/betoxxD/github-readme-stats)
 
+[![betoxxD's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=betoxxD)](https://github.com/betoxxD/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betoxxD&layout=compact)](https://github.com/betoxxD/github-readme-stats)
 
 <!--
