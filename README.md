@@ -30,6 +30,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betoxxD&layout=compact&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=betoxxD&layout=compact&show_icons=true&theme=vue-dark)
 
+<!-- [![betoxxD's github activity graph](https://activitygraph.herokuapp.com/graph?username=betoxxD&theme=nord)](https://github.com/betoxxD/github-readme-activity-graph)
+
+
 <!--
 **betoxxD/betoxxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
