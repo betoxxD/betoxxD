@@ -8,19 +8,20 @@
 🌱 I’m currently learning Web development and Android apps development.<br>
 
 ## Programming Languages
-<img src="https://i.pinimg.com/originals/5d/08/78/5d087850e740fc8f6fd767d121c28a58.png" width="80px"/> <img src="https://freevectorlogo.net/wp-content/uploads/2013/03/java-eps-vector-logo-400x400.png" width="100px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="75px"/>
 
-## Back-end skills
+[<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />](https://www.typescriptlang.org) [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img alt="CSharp" src="https://img.shields.io/badge/-C sharp-239120?style=flat-square&logo=C Sharp&logoColor=white" />](https://docs.microsoft.com/en-us/dotnet/csharp/) [<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />](https://www.java.com/) 
 
-<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="170px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="100px"/> <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" width="100px"/>
+## Databases
+
+[<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />](https://www.mysql.com/) [<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />](https://www.postgresql.org/) [<img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white" />](https://www.microsoft.com/en-us/sql-server)
 
 ## Front-end skills
 
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="100px"/> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="100px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" width="95px"/>
+[<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />](https://developer.mozilla.org/es/docs/Glossary/HTML5) [<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />](https://developer.mozilla.org/es/docs/Web/CSS) [<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />](https://getbootstrap.com/) [<img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" />](https://angular.io/)
 
 ## technologies
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="70px"/> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px"/> <img src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-3-2.png" width="100px"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png" width="80px"/>
+[<img alt="Pop!_OS" src="https://img.shields.io/badge/-Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white" />](https://pop.system76.com/) [<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />](https://git-scm.com/) [<img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />](https://www.android.com/) [<img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.NET&logoColor=white" />](https://dotnet.microsoft.com/)
 
 ## GitHub stats
 
