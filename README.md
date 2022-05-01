@@ -2,10 +2,16 @@
 
 ## About me
 
-🐱‍💻 I'm a computer systems engineering student at Instituto Tecnológico Superior del Sur de Guanajuato.<br>
-👨‍💻 Starting on the world of Android ROM development.<br>
-🎸 In my free time I play the bass.<br>
-🌱 I’m currently learning Web development and Android apps development.<br>
+*   💻 I'm a computer systems engineering student at Instituto Tecnológico Superior del Sur de Guanajuato
+*   👨‍💻 Starting on the world of Android ROM development
+*   🎸 In my free time I play the bass
+*   🌱 I’m currently learning Web development and Android apps development
+*   🌍  I'm based in Uriangato
+*   ✉️  You can contact me at [albertodiosdado@outlook.com](mailto:albertodiosdado@outlook.com)
+*   🧠  I'm learning Angular
+
+<a href="https://www.github.com/betoxxD" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/betoxxD?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 
 ## Programming Languages
 
@@ -23,17 +29,15 @@
 
 [<img alt="Pop!_OS" src="https://img.shields.io/badge/-Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white" />](https://pop.system76.com/) [<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />](https://git-scm.com/) [<img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />](https://www.android.com/) [<img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.NET&logoColor=white" />](https://dotnet.microsoft.com/)
 
-## GitHub stats
+## Badges
 
-[![betoxxD's GitHub stats](https://github-readme-stats.vercel.app/api?username=betoxxD&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/api?username=betoxxD&show_icons=true&theme=vue-dark)
+<b>My GitHub Stats</b>
 
-<!-- [![betoxxD's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=betoxxD&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/api/wakatime?username=betoxxD&show_icons=true&theme=vue-dark) -->
+<a href="http://www.github.com/betoxxD"><img src="https://github-readme-stats.vercel.app/api?username=betoxxD&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="betoxxD's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betoxxD&layout=compact&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=betoxxD&layout=compact&show_icons=true&theme=vue-dark)
+<a href="http://www.github.com/betoxxD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=betoxxD&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!-- [![betoxxD's github activity graph](https://activitygraph.herokuapp.com/graph?username=betoxxD&theme=nord)](https://github.com/betoxxD/github-readme-activity-graph)
+<a href="http://www.github.com/betoxxD"><img src="https://activity-graph.herokuapp.com/graph?username=betoxxD&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
-<!--
-**betoxxD/betoxxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/betoxxD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betoxxD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
