@@ -2,7 +2,7 @@
 
 ## About me
 
-*   💻 I'm a computer systems engineering student at Instituto Tecnológico Superior del Sur de Guanajuato
+*   💻 I'm a computer systems engineer at Instituto Tecnológico Superior del Sur de Guanajuato
 *   👨‍💻 Starting on the world of Android ROM development
 *   🎸 In my free time I play the bass
 *   🌱 I’m currently learning Web development and Android apps development
