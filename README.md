@@ -39,8 +39,6 @@
 
 <a href="http://www.github.com/betoxxD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=betoxxD&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/betoxxD"><img src="https://activity-graph.herokuapp.com/graph?username=betoxxD&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/betoxxD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betoxxD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
