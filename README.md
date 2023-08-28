@@ -42,6 +42,7 @@
 
 ## Competitive Programming
 
-<a href="https://codeforces.com/profile/betoxx"><img src="https://raw.githubusercontent.com/betoxxD/cf-stats/main/output/light_card.svg#gh-dark-mode-only" /></a>
-
-![LeetCode Stats](https://leetcode.card.workers.dev/betoxxdiosnava?theme=dark&font=baloo&extension=activity)
+<p float="left">
+<a height="273em" href="https://codeforces.com/profile/betoxx"><img src="https://raw.githubusercontent.com/betoxxD/cf-stats/main/output/light_card.svg#gh-dark-mode-only" /></a>
+<a height="280em" href="https://leetcode.com/betoxxdiosnava/"><img src="https://leetcode.card.workers.dev/betoxxdiosnava?theme=dark&font=baloo&extension=activity" /></a>
+</p>
