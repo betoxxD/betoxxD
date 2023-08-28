@@ -44,4 +44,4 @@
 
 ## Competitive Programming
 
-![](https://raw.githubusercontent.com/betoxxD/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+<a href="https://codeforces.com/profile/betoxx"><img src="https://raw.githubusercontent.com/betoxxD/cf-stats/main/output/light_card.svg#gh-dark-mode-only" /></a>
