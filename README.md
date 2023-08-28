@@ -41,3 +41,7 @@
 
 <a href="https://github.com/betoxxD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betoxxD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+
+## Competitive Programming
+
+![](https://raw.githubusercontent.com/betoxxD/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
