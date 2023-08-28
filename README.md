@@ -33,16 +33,19 @@
 
 <img src="https://raw.githubusercontent.com/betoxxD/betoxxD/output/snake.svg" alt="Snake animation" />
 
-<a href="http://www.github.com/betoxxD"><img src="https://github-readme-stats.vercel.app/api?username=betoxxD&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="betoxxD's GitHub stats" /></a>
+<p align="center">
+    <a href="http://www.github.com/betoxxD"><img height="273em" src="https://github-readme-stats.vercel.app/api?username=betoxxD&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="betoxxD's GitHub stats" /></a>
+    <a href="http://www.github.com/betoxxD"><img height="273em" src="https://github-readme-streak-stats.herokuapp.com/?user=betoxxD&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
 
-<a href="http://www.github.com/betoxxD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=betoxxD&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/betoxxD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betoxxD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+    <a href="https://github.com/betoxxD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betoxxD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
 
 
 ## Competitive Programming
 
-<p float="left">
-<a href="https://codeforces.com/profile/betoxx"><img height="273em" src="https://raw.githubusercontent.com/betoxxD/cf-stats/main/output/light_card.svg#gh-dark-mode-only" /></a>
-<a href="https://leetcode.com/betoxxdiosnava/"><img height="280em" src="https://leetcode.card.workers.dev/betoxxdiosnava?theme=dark&font=baloo&extension=activity" /></a>
+<p align="center">
+    <a href="https://codeforces.com/profile/betoxx"><img height="273em" src="https://raw.githubusercontent.com/betoxxD/cf-stats/main/output/light_card.svg#gh-dark-mode-only" /></a>
+    <a href="https://leetcode.com/betoxxdiosnava/"><img height="280em" src="https://leetcode.card.workers.dev/betoxxdiosnava?theme=dark&font=baloo&extension=activity" /></a>
 </p>
