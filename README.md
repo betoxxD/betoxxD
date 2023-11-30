@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Alberto</h1>
-<h3 align="center">A passionate developer from Mexico</h3>
+<h1 align="center">Hello there, I'm Alberto</h1>
+<h3 align="center">An enthusiastic developer hailing from Mexico</h3>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=betoxxd&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="betoxxd" /> 
     <img src="https://img.shields.io/github/followers/betoxxD?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" />
 </p>
 
-- 💻 I'm a computer systems engineer at [Instituto Tecnológico Superior del Sur de Guanajuato](https://surguanajuato.tecnm.mx/)
+- 🎓 Graduated with a degree in computer systems engineering from [Instituto Tecnológico Superior del Sur de Guanajuato](https://surguanajuato.tecnm.mx/)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 Currently expanding my skills in **Flutter**
 
-- 💬 Ask me about **Angular, DevOps and Linux**
+- 💬 Happy to discuss **Angular, DevOps, and Linux**
 
-- 📫 How to reach me **[albertodiosdado@outlook.com](mailto:albertodiosdado@outlook.com)**
+- 📫 You can get in touch with me via: **[albertodiosdado@outlook.com](mailto:albertodiosdado@outlook.com)**
 
 
 <!-- BLOG-POST-LIST:START -->
