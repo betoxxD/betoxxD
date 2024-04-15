@@ -8,7 +8,7 @@
 
 - 🎓 Graduated with a degree in computer systems engineering from [Instituto Tecnológico Superior del Sur de Guanajuato](https://surguanajuato.tecnm.mx/)
 
-- 🌱 Currently expanding my skills in **Flutter**
+- 🌱 Currently expanding my skills in **Angular and Java**
 
 - 💬 Happy to discuss **Angular, DevOps, and Linux**
 
@@ -69,7 +69,7 @@
 
 ## Badges
 
-<img src="https://raw.githubusercontent.com/betoxxD/betoxxD/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/betoxxD/betoxxD/output/snake-dark.svg?palette=github-dark" alt="Snake animation" />
 
 <p align="center">
     <a href="http://www.github.com/betoxxD"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=betoxxD&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="betoxxD's GitHub stats" /></a>
